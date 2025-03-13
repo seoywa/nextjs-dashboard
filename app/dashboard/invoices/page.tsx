@@ -1,3 +1,3 @@
 export default function Invoices() {
-  return (<>Invoices Page</>)
+  return (<p>Invoices Page</p>)
 }

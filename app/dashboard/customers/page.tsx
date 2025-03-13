@@ -1,3 +1,3 @@
-export default function Customers() {
-  return (<>Customers Page</>)
+export default function Customers(){
+  return (<p>Customers Page</p>)
 }
